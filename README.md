@@ -1,1 +1,2 @@
-Self Project
+# Vending Machine
+Self project
